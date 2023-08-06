@@ -1,0 +1,46 @@
+
+body{
+    width: 70%;
+    height: auto;
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding: 0;
+background-color: whitesmoke;
+margin-left: 10px;
+
+/* background-image: url("image2.jpg") */
+}
+.heading{
+    color: fuchsia;
+    text-align: center;
+}
+.subheading{
+    
+    color: fuchsia;
+    text-align: left;
+    
+}
+   
+    p{
+    
+}
+img{
+    float: inline-end;
+}
+
+.imagecontainer li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.imagecontainer li:last-child{
+    margin-right:0;
+}
+.imagecontainer li img{
+   width: 100px;
+   height: 150px;
+}
+.moods{
+    width: 30%;
+    height: 400px;
+}
+
